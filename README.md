@@ -1,8 +1,16 @@
-# React + Vite
+# Reusable Components
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple React application that demonstrates the use of reusable components. The application includes a login form and input fields, styled to resemble a blog. It aims to provide a clear structure and best practices for building scalable and maintainable React applications.
 
-Currently, two official plugins are available:
+## Introduction
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The *Reusable Components* project showcases how to build a React application using modular and reusable components. This project includes a login form and various input fields, all styled to look like a blog.
+
+## Features
+
+- Modular and reusable components
+- Login form
+- Input fields for blog-like content
+- Clean and organized project structure
+- Simple state management
+- Responsive design
