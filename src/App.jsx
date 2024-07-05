@@ -7,6 +7,7 @@ import Testimonial from './Components/Testimonial'
 import SignUp from './Components/SignUp'
 import Footer from './Components/Footer'
 
+
 function App() {
   return <>
   <NavBar />
